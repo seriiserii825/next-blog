@@ -3,7 +3,8 @@ const DUMMY_DATA = [
     title: "Next js",
     slug: "next-js",
     excerpt: "Next js excerpt",
-    content: "## Next js excerpt",
+    content:
+      " ## Next js excerpt ![Alt text](/images/getting-started-nextjs.jpg)",
     image: "getting-started-nextjs.jpg",
     date: "2021-04-08"
   },
