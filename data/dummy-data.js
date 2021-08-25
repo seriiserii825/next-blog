@@ -4,7 +4,9 @@ const DUMMY_DATA = [
     slug: "next-js",
     excerpt: "Next js excerpt",
     content:
-      " ## Next js excerpt ![Alt text](/images/getting-started-nextjs.jpg)",
+      "## Next js excerpt \n\n" +
+      " ![Alt text](/images/getting-started-nextjs.jpg) \n\n" +
+      " ~~~js\n\n console.log('It works!')\n\n ~~~",
     image: "getting-started-nextjs.jpg",
     date: "2021-04-08"
   },
